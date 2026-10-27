@@ -1,2 +1,6 @@
 git lab
+<<<<<<< HEAD
 hii
+=======
+some work in progress
+>>>>>>> c90b450 (m1)
